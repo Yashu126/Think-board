@@ -6,7 +6,7 @@ import { CreateNote } from './Pages/CreateNote'
 
 const App = () => {
   return (
-    <div className='relative h-full w-full' data-theme="forest">
+    <div className="min-h-screen bg-gray-100 p-4">
         <Routes>
             <Route path='/' element={<HomePage />} />
             <Route path='/note/:id' element={<NoteDetail />} />
