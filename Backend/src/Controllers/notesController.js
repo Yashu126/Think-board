@@ -68,7 +68,3 @@ export const deleteNote = async (req, res) => {
   }
 }
 
-
-//yashwanthraj7392_db_user
-//XUuPVB2IYtsxQHQg
-//mongodb+srv://yashwanthraj7392_db_user:XUuPVB2IYtsxQHQg@notes.hwzac60.mongodb.net/?retryWrites=true&w=majority&appName=Notes
